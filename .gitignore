@@ -1,14 +1,13 @@
-# Editor config
-.vscode/
-
-# Python
-venv/
-__pycache__/
-
-# Java
+# ignore build files
+bin/
 *.class
-
-# Binaries
 *.exe
 *.o
 *.out
+*.pyc
+
+# ignore python virtual environments
+*venv*/
+
+# ignore output files
+/tree_serializer/tree.json
