@@ -1,3 +1,3 @@
-# Algorithms
+# Coding Exercises
 
-This repository contains the basic implementations for a few algorithms.
+This repository contains source code from my coding exercises.
