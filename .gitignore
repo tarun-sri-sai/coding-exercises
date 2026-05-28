@@ -11,3 +11,6 @@ bin/
 
 # ignore output files
 /tree_serializer/tree.json
+
+# ignore node packages
+node_modules/
